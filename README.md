@@ -9,21 +9,21 @@ We created this project to see if we can actually understand the musical pattern
 
 
 ### Next steps
-If do not have jupyter and python visit [Install Jupyter and Python](https://github.com/Sarathisme/music-recommendation-system/tree/readme-changes#instal-jupyter-and-python)
+If do not have jupyter and python visit [Install Jupyter and Python](https://github.com/lucymell/Zene_v3/tree/readme-changes#instal-jupyter-and-python)
 
 If you have them, proceed with the below steps.
 
 1. Clone the repo 
 
    ```shell
-   $ git clone https://github.com/Sarathisme/music-recommendation-system.git
+   $ git clone https://github.com/lucymell/Zene_v3.git
    ````
-2. Visit the [Run It](https://github.com/Sarathisme/music-recommendation-system/blob/readme-changes/README.md#run-it) section
+2. Visit the [Run It](https://github.com/lucymell /Zene_v3/blob/readme-changes/README.md#run-it) section
 
 ### Instal Jupyter and Python
 1. Clone this repo to get the .ipynb files
    ```shell
-   $ git clone https://github.com/Sarathisme/music-recommendation-system.git
+   $ git clone https://github.com/lucymell/Zene_v3.git
    ```
 2. Install python from <a href="https://www.python.org/downloads/"/>https://www.python.org/downloads</a>
 
