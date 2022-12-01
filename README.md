@@ -18,7 +18,7 @@ If you have them, proceed with the below steps.
    ```shell
    $ git clone https://github.com/lucymell/Zene_v3.git
    ````
-2. Visit the [Run It](https://github.com/lucymell /Zene_v3/blob/readme-changes/README.md#run-it) section
+2. Visit the [Run It](https://github.com/lucymell/Zene_v3/blob/readme-changes/README.md#run-it) section
 
 ### Instal Jupyter and Python
 1. Clone this repo to get the .ipynb files
